@@ -1,6 +1,6 @@
 package presentacion;
 import java.util.ArrayList;
-import dominio.*
+import dominio.*;
 
 public class InterfazUsuario
 {
